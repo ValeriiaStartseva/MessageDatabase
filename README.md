@@ -1,0 +1,1 @@
+I have created a service that retrieves user data through asynchronous requests. Additionally, I have described the models and populated the database with data from the website https://gorest.co.in/. I used FastAPI, Tortoise-ORM, and HTTPX.
